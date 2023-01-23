@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="ru.netology.qa.EmptyTest" tests="2" skipped="0" failures="0" errors="0" timestamp="2023-01-23T11:32:22" hostname="DESKTOP-R69O9LA" time="16.343">
+  <properties/>
+  <testcase name="sampleTest1()" classname="ru.netology.qa.EmptyTest" time="8.634"/>
+  <testcase name="sampleTest()" classname="ru.netology.qa.EmptyTest" time="7.709"/>
+  <system-out><![CDATA[]]></system-out>
+  <system-err><![CDATA[янв. 23, 2023 2:32:27 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+янв. 23, 2023 2:32:35 PM io.appium.java_client.remote.AppiumCommandExecutor$1 lambda$0
+INFO: Detected dialect: W3C
+]]></system-err>
+</testsuite>
